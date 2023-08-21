@@ -8,7 +8,8 @@ Il faudra revoir ces notions afin de terminer l'application.
 
 La notion de base Model View Controller semble acquise.
 
-Points d'améliorations
+### Points d'améliorations
+
 Rque1 : Une erreur apparait lors du chargement de la liste des étudiants.
 Ce bug indique un problème avec la donnée teacher_id.
 Il est important de noter que cette dernière est présente dans la base de donnée mais n'existe pas dans le modèle de l'entité Student (models/student.php). Il vous faudra compléter votre code afin de corriger cette erreur.
