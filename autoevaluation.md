@@ -12,5 +12,5 @@
 
 > Une case par ligne à remplir par un bref commentaire explicatif à destination de l'équipe péda qui corrigera ton Baptême ;)
 
-Je pense avoir appréhendé l'ensemble des livrables demandées correctement (selon mon niveau de comprésension de la consigne), mais n'ayant pas d'exemples type sur la forme à donner, n'hésitez pas à me faire un retour si cela ne correspond pas à vos attentes.
+Je pense avoir appréhendé l'ensemble des livrables demandées correctement (selon mon niveau de compréhension de la consigne), mais n'ayant pas d'exemples type sur la forme à donner, n'hésitez pas à me faire un retour si cela ne correspond pas à vos attentes.
 Bien cordialement
