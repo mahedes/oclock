@@ -8,7 +8,8 @@ Il faudra revoir ces notions afin de terminer l'application.
 
 La notion de base Model View Controller semble acquise, mais il faudra encore de l'entrainer pour se sentir pleinement à l'aise
 
-Points d'améliorations
+### Points d'améliorations
+
 Rque1 : Présence d'erreurs dans les urls de la barre de navigation et des boutons.
 Vous avez mélangé les liens vers les fichiers source (ex: "/index.html", "appuser/list.html") et le nom des routes (ex: "/home", "/teacher_list"). 
 Aussi certaines routes ne correspondents pas (ex: Le bouton "Ajouter" de la page des formateurs renvoie sur le formulaire d'ajout d'un étudiant)
