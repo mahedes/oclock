@@ -1,4 +1,4 @@
-# Fetch - Conseil technique avancé à un.e apprenant.e
+# Livrable n°2 : le conseil technique avancé à un.e apprenant.e
 
 
 Quand on utilise un url pour aller sur un site, on précède toujours le nom de domaine par http ou https. Exemple : http://wikipedia.com
